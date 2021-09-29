@@ -1,0 +1,16 @@
+D:\BootCamp DIO - Everis\Aulas\2 - Projeto Utilirário Bancário\DIO.Bank\bin\Debug\net5.0\DIO.Bank.exe
+D:\BootCamp DIO - Everis\Aulas\2 - Projeto Utilirário Bancário\DIO.Bank\bin\Debug\net5.0\DIO.Bank.deps.json
+D:\BootCamp DIO - Everis\Aulas\2 - Projeto Utilirário Bancário\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.json
+D:\BootCamp DIO - Everis\Aulas\2 - Projeto Utilirário Bancário\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.dev.json
+D:\BootCamp DIO - Everis\Aulas\2 - Projeto Utilirário Bancário\DIO.Bank\bin\Debug\net5.0\DIO.Bank.dll
+D:\BootCamp DIO - Everis\Aulas\2 - Projeto Utilirário Bancário\DIO.Bank\bin\Debug\net5.0\ref\DIO.Bank.dll
+D:\BootCamp DIO - Everis\Aulas\2 - Projeto Utilirário Bancário\DIO.Bank\bin\Debug\net5.0\DIO.Bank.pdb
+D:\BootCamp DIO - Everis\Aulas\2 - Projeto Utilirário Bancário\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.AssemblyReference.cache
+D:\BootCamp DIO - Everis\Aulas\2 - Projeto Utilirário Bancário\DIO.Bank\obj\Debug\net5.0\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootCamp DIO - Everis\Aulas\2 - Projeto Utilirário Bancário\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfoInputs.cache
+D:\BootCamp DIO - Everis\Aulas\2 - Projeto Utilirário Bancário\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfo.cs
+D:\BootCamp DIO - Everis\Aulas\2 - Projeto Utilirário Bancário\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.CoreCompileInputs.cache
+D:\BootCamp DIO - Everis\Aulas\2 - Projeto Utilirário Bancário\DIO.Bank\obj\Debug\net5.0\DIO.Bank.dll
+D:\BootCamp DIO - Everis\Aulas\2 - Projeto Utilirário Bancário\DIO.Bank\obj\Debug\net5.0\ref\DIO.Bank.dll
+D:\BootCamp DIO - Everis\Aulas\2 - Projeto Utilirário Bancário\DIO.Bank\obj\Debug\net5.0\DIO.Bank.pdb
+D:\BootCamp DIO - Everis\Aulas\2 - Projeto Utilirário Bancário\DIO.Bank\obj\Debug\net5.0\DIO.Bank.genruntimeconfig.cache
